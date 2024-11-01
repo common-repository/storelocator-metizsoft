@@ -1,0 +1,19 @@
+    #message{
+    display: none;
+    }
+
+    #toplevel_page_new-store-connector{
+    display: none !important;
+    }
+
+    li#toplevel_page_new-store-connector> a>div>img{
+    padding: 0 0 0!important; 
+    }
+
+    .wp-admin #adminmenu .wp-menu-image.dashicons-before img{
+    padding: 0 0 0  !important;
+    background-color: white;
+    width: 20px;
+    margin:8px 0 0 0 ;
+    }
+
